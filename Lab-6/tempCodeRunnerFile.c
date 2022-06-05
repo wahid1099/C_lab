@@ -1,0 +1,1 @@
+unsigned char lx=x<<3;
