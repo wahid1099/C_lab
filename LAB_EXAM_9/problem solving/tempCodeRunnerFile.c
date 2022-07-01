@@ -1,0 +1,1 @@
+if(strcmp(s[i],s[j])==0 && strcmp(t[i],t[j])==0
